@@ -115,11 +115,6 @@
                 <version>1.0.0-beta2</version>
             </dependency>
             <dependency>
-                <groupId>com.calm.logger</groupId>
-                <artifactId>bweb_logger</artifactId>
-                <version>1.1.0</version>
-            </dependency>
-            <dependency>
                 <groupId>commons-logging</groupId>
                 <artifactId>commons-logging</artifactId>
                 <version>1.2</version>
