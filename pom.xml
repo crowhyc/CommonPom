@@ -366,10 +366,6 @@
             <artifactId>mybatis-redis</artifactId>
         </dependency>
         <dependency>
-            <groupId>com.calm.logger</groupId>
-            <artifactId>bweb_logger</artifactId>
-        </dependency>
-        <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-hateoas</artifactId>
         </dependency>
